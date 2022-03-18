@@ -26,7 +26,7 @@ Neste projeto utilizei dicas e truques básicos e essenciais ao manusear um arqu
 ### [Construindo uma Série Dicom](https://github.com/vpaula07/HandlingSeries)
 
 Neste projeto, vamos nos concentrar em entender como lidar com séries dicom e a hierarquia de certas tags dicom.
-Alguns desses arquivos dicom fazem parte de uma mesma série e, quando reunidos, formam uma imagem tridimensional de um paciente. Eles são chamados de Séries Dicom, e a série à qual um arquivo dicom específico pertence pode ser encontrada na tag dicom SeriesInstanceUID.Existe uma hierarquia de fatias, séries e estudos.
+Alguns desses arquivos dicom fazem parte de uma mesma série e, quando reunidos, formam uma imagem tridimensional de um paciente. Eles são chamados de Séries Dicom, e a série à qual um arquivo dicom específico pertence pode ser encontrada na tag dicom SeriesInstanceUID. Existe uma hierarquia de fatias, séries e estudos.
 
 <!--
 
