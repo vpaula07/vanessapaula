@@ -15,6 +15,10 @@
 
 Neste projeto utilizei Machine Learning para prever as vendas das próximas 6 semanas de uma determinada franquia de lojas. A empresa precisa identificar a previsão de vendas para as próximas 6 semanas para investir na reforma das lojas. Neste projeto, construí um regressor de Machine Learning para prever a previsão de vendas com 98,1% de precisão.
 
+### [Insiders Clustering - Programa de Fidelidade](https://github.com/vpaula07/InsidersClustering)
+
+ Como criar um Programa de Fidelidade para empresa e selecionar os mais valiosos clientes para formar o programa de fidelidade "INSIDERS". 
+
 ### [Identificação de imóveis para compra e revenda a fim de maximizar o lucro ](https://github.com/vpaula07/kc_house_data)
 
 Identificação de imóveis abaixo do preço médio de venda e definição do preço ideal de revenda, a partir de uma análise exploratória de dados em Python.
