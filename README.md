@@ -23,7 +23,7 @@ Neste projeto utilizei Machine Learning para prever as vendas das próximas 6 se
 
 Identificação de imóveis abaixo do preço médio de venda e definição do preço ideal de revenda, a partir de uma análise exploratória de dados em Python.
 
-### [IA para Medicina - Ciência de Dados](https://github.com/vpaula07/IA_Medicina_Ciencia_Dados)
+### [Introdução Imagens Médicas](https://github.com/vpaula07/IA_Medicina_Ciencia_Dados)
 
 - **Introdução à Imagem Médica: Manipulação de Arquivos Dicom**
 
