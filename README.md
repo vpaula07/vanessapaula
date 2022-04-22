@@ -38,6 +38,10 @@ Alguns desses arquivos dicom fazem parte de uma mesma série e, quando reunidos,
 
 Este notebook mostrará como calcular a área de cada pixel em uma imagem dicom, bem como calcular o volume de cada voxel em uma série dicom.
 
+- **Reading X-Ray Dicom Files*
+
+Este notebook mostrará como abrir um arquivo dicom de um exame de Raio-X. Exploraremos algumas das diferenças práticas entre o manuseio de um arquivo dicom de um exame de TC (como mostramos nos notebooks até agora) e um Raio-X.
+
 <!--
 
 ## Languages and Tools
