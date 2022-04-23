@@ -8,6 +8,13 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vanessa-paula-b826312a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vpaula247@gmail.com)](mailto:vpaula247@gmail.com)
 
+## Python RPA
+
+
+### [Python RPA e Excel](https://github.com/vpaula07/Python_RPA_Excel)
+
+Neste projeto utilizei da linguagem Python para automatizar processos básicos no Excel.
+
 ## Data Science Projects
 
 
