@@ -18,6 +18,10 @@
 ## Data Science Projects
 
 
+### [Data Science e Analytics](https://github.com/vpaula07/data_analytics)
+
+Neste projeto apresento algumas explicações básicas sobre Data Science e Analytics na prática.
+
 ### [Previsão de vendas](https://github.com/vpaula07/RossmannSalesForescast)
 
 Neste projeto utilizei Machine Learning para prever as vendas das próximas 6 semanas de uma determinada franquia de lojas. A empresa precisa identificar a previsão de vendas para as próximas 6 semanas para investir na reforma das lojas. Neste projeto, construí um regressor de Machine Learning para prever a previsão de vendas com 98,1% de precisão.
