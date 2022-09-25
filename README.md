@@ -17,6 +17,9 @@
 
 ## Data Science Projects
 
+### [SQL com Python](https://github.com/vpaula07/SQL)
+
+Manipulando Banco de Dados em Python
 
 ### [Data Science e Analytics](https://github.com/vpaula07/data_analytics)
 
