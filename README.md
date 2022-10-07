@@ -15,6 +15,10 @@
 - Python RPA e Excel (automatizar Processos e Planilhas)
 - Web Scraping com Power BI
 
+## Engenharia de Dados
+
+### [Importando dados do MySQL para o HDFS](https://github.com/vpaula07/engenharia_de_dados)
+
 ## Data Science Projects
 
 ### [SQL com Python](https://github.com/vpaula07/SQL)
