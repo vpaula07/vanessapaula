@@ -19,6 +19,8 @@
 
 ### [Importando dados do MySQL para o HDFS](https://github.com/vpaula07/engenharia_de_dados)
 
+Foi criado o banco de dados no MySQL e feita a importação para o HDFS utilizando o Sqoop.
+
 ## Data Science Projects
 
 ### [SQL com Python](https://github.com/vpaula07/SQL)
