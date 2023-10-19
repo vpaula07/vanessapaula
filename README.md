@@ -1,6 +1,6 @@
 ## Hello! I'm Vanessa Paula 👋
 
-- 🏭 I'm an Business & Technology Analyst
+- 🏭 Software Engineering | Python | SQL | Data Analysis
 - 💻 Software Engineering Student
 - 📍 Belo Horizonte, MG. Brazil.
 
