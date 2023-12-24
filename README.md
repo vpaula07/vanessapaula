@@ -20,6 +20,10 @@ Foi criado o banco de dados no MySQL e feita a importação para o HDFS utilizan
 
 ## Data Science Projects
 
+### [New York City Airbnb ](https://github.com/vpaula07/NewYorkCityAirbnb)
+
+Respondendo alguns problemas de negócios
+
 ### [SQL com Python](https://github.com/vpaula07/SQL)
 
 Manipulando Banco de Dados em Python
