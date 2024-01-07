@@ -6,7 +6,11 @@
 
 ## Contact me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vanessa-paula-b826312a/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vpaula247@gmail.com)](mailto:vpaula247@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vpaula247@gmail.com)](mailto:vpaula247@gmail.com) 
+
+## Python
+
+### [Gerando Relatórios PDF via Excel](https://github.com/vpaula07/PDF_via_Excel)
 
 ## Engenharia de Dados
 
