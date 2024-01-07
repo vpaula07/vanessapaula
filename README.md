@@ -8,6 +8,16 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vanessa-paula-b826312a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vpaula247@gmail.com)](mailto:vpaula247@gmail.com) 
 
+## Projetos - Pós graduação Engenharia de Software - PUC Rio
+
+### [Front-end](https://github.com/vpaula07/full_stack_front)
+### [Back-end com API](https://github.com/vpaula07/full_stack_api)
+### [Gestão Ágil de Projetos e Produtos](https://github.com/vpaula07/sprint_02)
+### [Arquitetura de Software - Front-end](https://github.com/vpaula07/arq_sw_front)
+### [Arquitetura de Software - Back-end](https://github.com/vpaula07/arq_sw_api_rest)
+### [Arquitetura de Software - Docker](https://github.com/vpaula07/arq_sw_docker)
+### [Engenharia de Software e Sistemas Inteligentes - Machine Learning em Python](https://github.com/vpaula07/ESSI)
+
 ## Python
 
 ### [Gerando Relatórios PDF via Excel](https://github.com/vpaula07/PDF_via_Excel)
