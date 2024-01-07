@@ -18,6 +18,9 @@
 ### [Arquitetura de Software - Docker](https://github.com/vpaula07/arq_sw_docker)
 ### [Engenharia de Software e Sistemas Inteligentes - Machine Learning em Python](https://github.com/vpaula07/ESSI)
 
+## Engenharia de Software para Ciência de Dados - Curso Extensão PUC Rio
+### [Projeto - Problema de Regressão](https://github.com/vpaula07/RossmannSalesForescast/blob/main/rossmann_store_sales.ipynb)
+
 ## Python
 
 ### [Gerando Relatórios PDF via Excel](https://github.com/vpaula07/PDF_via_Excel)
